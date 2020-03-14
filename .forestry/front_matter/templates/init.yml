@@ -32,5 +32,9 @@ fields:
   config:
     required: false
   label: author
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
 pages:
 - _posts/fonksiyonlara-giriş.md

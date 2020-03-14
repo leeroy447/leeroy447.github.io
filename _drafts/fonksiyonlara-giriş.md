@@ -5,8 +5,10 @@ tags:
 - fonksiyonlar
 layout: ''
 title: Fonksiyonlara Giriş
-date: 
-excerpt: ''
+date: 2020-03-14 09:37:00 +0000
+excerpt: Bu yazıyla kalkülüs öncesi dersinde yeni bir bölüme geçiyoruz. Bu bölüm ileride
+  göreceğimiz konuların neredeyse hepsinde kullanacağımız konulardan bahsettiği için
+  oldukça onemli bir bölüm...
 author: Kıvanç Yüksel
 categories: []
 

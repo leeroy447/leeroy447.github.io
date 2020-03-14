@@ -8,3 +8,27 @@ fields:
 - type: text
   name: title
   label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: false
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: excerpt
+- name: author
+  type: text
+  config:
+    required: false
+  label: author

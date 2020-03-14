@@ -32,3 +32,5 @@ fields:
   config:
     required: false
   label: author
+pages:
+- _posts/fonksiyonlara-giriş.md

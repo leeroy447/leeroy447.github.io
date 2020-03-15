@@ -7,7 +7,6 @@ sections:
 - type: document
   path: Gemfile
   label: Gemfile
-  match: "**/*"
 - type: directory
   path: ".forestry"
   label: ".forestry"

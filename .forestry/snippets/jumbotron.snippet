@@ -1,0 +1,7 @@
+{% capture jumbotron-content %}
+<h3></h3>
+<p class="lead"></p>
+{% endcapture %}
+
+{% capture jumbotron-include %}{% include jumbotron.html content=jumbotron-content %}{% endcapture %}
+{{ jumbotron-include | markdownify }}
